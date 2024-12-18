@@ -18,6 +18,14 @@
     max-width: 1040px;
 }
 
+.image-container{
+    margin-top: -20px;
+}
+.download {
+    background: url('../images/download-background.jpg') center center no-repeat;
+    background-size:cover;
+}
+
 @media (max-width: 1000px) {
     .hero .image-container {
         display: flex;
